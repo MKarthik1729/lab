@@ -1,0 +1,15 @@
+.nav{
+    display:flex;
+    color: white;
+    background-color: black;
+}
+
+.nav li{
+    list-style: none;
+    padding: 0 30px;
+    padding: 20px;
+}
+
+.nav li:hover{
+    background-color: grey;
+}
